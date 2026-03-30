@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "茜さす",
+  "base_artist": "Aimer",
+  "createdAt": "2026-03-30T14:18:07.632506Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "茜さす",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_茜さす_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "茜さす",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_茜さす_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "茜さす 帰路照らされど…",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/03_茜さす_帰路照らされど..._Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Akane Sasu, Kiro Terasaredo... [茜さす 帰路照らされど...]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/04_Akane_Sasu,_Kiro_Terasaredo..._[茜さす_帰路照らされど...]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Akane Sasu (茜さす) (TV size)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_Akane_Sasu_(茜さす)_(TV_size)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "茜さす (夕晖)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_茜さす_(夕晖)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "茜さす (TV size)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/07_茜さす_(TV_size)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "茜さす",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_茜さす_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "茜さす 帰路照らされど…",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/09_茜さす_帰路照らされど..._椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "茜さす - Akane Sasu",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_茜さす_-_Akane_Sasu_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "茜さす",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/11_茜さす_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "茜さす",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/12_茜さす_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "茜さす　TV size",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/13_茜さす_TV_size_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "茜さす (TV size)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/14_茜さす_(TV_size)_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "茜さす",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_茜さす_Aimer.txt"
+    }
+  ]
+}
